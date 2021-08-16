@@ -23,5 +23,5 @@
 
 <div style='display: inline_block'><br>
   <a href="https://www.linkedin.com/in/maicon-borba-2aa47a5a/" target='blank'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' target='_blank'></a>
-  <a href="maiconbsconceicao@gmail.com" target='blank'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' target='_blank'></a>
+  <a href="mailto:maiconbsconceicao@gmail.com" target='blank'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' target='_blank'></a>
 -->
