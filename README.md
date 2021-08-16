@@ -11,9 +11,9 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=borbabeats&show_icons=true&theme=nord">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=borbabeats&show_icons=true&theme=nord">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borbabeats&layout=compact)](https://github.com/borbabeats/github-readme-stats">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borbabeats&layout=compact=16$theme=nord (https://github.com/borbabeats/github-readme-stats">
 </div)
 
 
