@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on study's group and enterprise
 - 📫 How to reach me: the better way to contact me, is about Whatsapp messages
 
-(https://github-readme-stats.vercel.app/api?username=borbabeats)](https://github.com/borbabeats/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=borbabeats)](https://github.com/borbabeats/github-readme-stats)
 
 
 -->
