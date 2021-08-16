@@ -8,12 +8,8 @@
 - 📫 How to reach me: the better way to contact me, is about Whatsapp messages
 <div>
   <a href="https://github.com/borbabeats/borbabeats/edit/main/README.md">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=borbabeats&show_icons=true&theme=nord">
-
-
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borbabeats&layout=compact=16$theme=nord (https://github.com/borbabeats/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=borbabeats&show_icons=true&theme=nord$include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borbabeats&layout=compact&langs_count=16$theme=nord"/>
 </div)
 
 
