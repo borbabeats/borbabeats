@@ -12,11 +12,19 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borbabeats&theme=nord&layout=compact&langs_count=5&hide_border=true"/>
 </div>
 <div style='display: inline_block'><br>
-    <img align='center' alt='Maicon-Python' height='40' width='90' src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54'>
-    <img align='center' alt='Maicon-Js' height='40' width='100' src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E'>
-    <img align='center' alt='Maicon-html' height='40' width='80' src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white'>
-    <img align='center' alt='Maicon-css' height='40' width='80' src='https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white'>
+    <img align='center' alt='Maicon-Python' height='40' width='90' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />    
+    <img align='center' alt='Maicon-Js' height='40' width='100' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+    <img align='center' alt='Maicon-html' height='40' width='80'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />   
+    <img align='center' alt='Maicon-css' height='40' width='80' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />    
     <img align='center' alt='Maicon-scss' height='40' width='80' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+    <img align='center' alt='Maicon-wordpress' height='40' width='80' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
+    <img align='center' alt='Maicon-bootstrap' height='40' width='80' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+    <img align='center' alt='Maicon-git' height='40' width='80' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img align='center' alt='Maicon-github' height='40' width='80' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+          
+          
+          
+          
 </div>
 
   
