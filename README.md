@@ -12,7 +12,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borbabeats&theme=nord&layout=compact&langs_count=5&hide_border=true"/>
 </div>
 <div style='display: inline_block'><br>
-    <img align='center' alt='Maicon-react' height='40' width='100' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-plain.svg" />   
+    <img align='center' alt='Maicon-react' height='40' width='100' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactjs/reactjs-plain.svg" />   
     <img align='center' alt='Maicon-Js' height='40' width='100' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
     <img align='center' alt='Maicon-html' height='40' width='80'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />   
     <img align='center' alt='Maicon-css' height='40' width='80' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />    
