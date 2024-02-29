@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on Web develop using Elementor(WP)
-- 🌱 I’m currently learning about code. Like that: JS, Python, PHP
+- 🔭 I’m currently working on Front End using React
+- 🌱 I’m currently learning about code. Like that: JS, React, Node, Next and MySQL
 - 👯 I’m looking to collaborate on study's group and enterprise
 - 📫 How to reach me: I use to be near my phone (Whatsapp)
 <div>
