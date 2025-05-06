@@ -1,15 +1,11 @@
-### Hellooo! 👋
+### Oi! 👋
 
+#### Um pequeno resumo do que tem aqui
 
-
-- 🔭 I’m currently working on Front End using React
-- 🌱 I’m currently learning about code. Like that: JS, React, Node, Next and MySQL
-- 👯 I’m looking to collaborate on study's group and enterprise
-- 📫 How to reach me: I use to be near my phone (Whatsapp)
 <div>
   <a href="">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=borbabeats&theme=nord&show_icons=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borbabeats&theme=nord&layout=compact&langs_count=6&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=borbabeats&theme=tokyonight&show_icons=true&hide_border=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borbabeats&theme=tokyonight&layout=pie&langs_count=6&hide_border=true&locale=pt-br"/>
 </div>
 <div style='display: inline_block'><br>
     <img align='center' alt='Maicon-react' height='40' width='100' src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
