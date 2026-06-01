@@ -5,7 +5,7 @@
 <div>
   <a href="">
 </div>
-<div style='display: inline_block'><br>
+<div style='display: flex, flex-direction: flex-wrap'><br>
     <img align='center' alt='React' height='40' width='100' src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
     <img align='center' alt='JavaScript' height='40' width='100' src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" />
     <img align='center' alt='Maicon-TS' height='40' width='100' src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" />
