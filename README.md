@@ -4,8 +4,6 @@
 
 <div>
   <a href="">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=borbabeats&theme=tokyonight&show_icons=true&hide_border=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borbabeats&theme=tokyonight&layout=pie&langs_count=6&hide_border=true&locale=pt-br"/>
 </div>
 <div style='display: inline_block'><br>
     <img align='center' alt='Maicon-react' height='40' width='100' src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
