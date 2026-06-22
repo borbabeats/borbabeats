@@ -5,7 +5,7 @@ Desenvolvedor **Full Stack** apaixonado por construir produtos web e mobile do z
 🔭 Atualmente trabalhando com projetos full-stack utilizando **React Native, Node.js e NestJS**
 🌱 Aprendendo mais sobre arquitetura de software, testes automatizados e cloud (AWS)
 💬 Pergunte-me sobre **React, Next.js, Node.js, NestJS e React Native**
-📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/maicon-borba-2aa47a5a/) · [E-mail](mailto:maiconbsconceicao@gmail.com)
+📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/maicon-borba/) · [E-mail](mailto:maiconbsconceicao@gmail.com)
 
 ---
 
@@ -60,5 +60,5 @@ Desenvolvedor **Full Stack** apaixonado por construir produtos web e mobile do z
 
 ## 📫 Contato
 
-<a href="https://www.linkedin.com/in/maicon-borba-2aa47a5a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/maicon-borba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:maiconbsconceicao@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
